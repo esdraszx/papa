@@ -1,0 +1,15 @@
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\obj\Debug\DAL_Datos.csproj.CoreCompileInputs.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\obj\Debug\DAL_Datos.csprojAssemblyReference.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\DAL_Datos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\DAL_Datos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\BE.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\DAL_Servicios.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\Servicios.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\Nini.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\BE.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\DAL_Servicios.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\bin\Debug\Servicios.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\obj\Debug\DAL_Datos.csproj.CopyComplete
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\obj\Debug\DAL_Datos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Datos\obj\Debug\DAL_Datos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_IN5\DAL_Datos\bin\Debug\DAL_Datos.dll.config

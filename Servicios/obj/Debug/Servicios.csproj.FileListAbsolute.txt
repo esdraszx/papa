@@ -1,0 +1,16 @@
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\Servicios.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\Servicios.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\BE.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\DAL_Servicios.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\Dapper.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\Nini.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\BE.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\DAL_Servicios.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\Dapper.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\obj\Debug\Servicios.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\obj\Debug\Servicios.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\DryIoc.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Servicios\bin\Debug\DryIoc.xml

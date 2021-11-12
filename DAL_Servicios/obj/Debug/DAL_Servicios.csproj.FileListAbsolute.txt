@@ -1,0 +1,8 @@
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\obj\Debug\DAL_Servicios.csproj.CoreCompileInputs.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\bin\Debug\DAL_Servicios.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\bin\Debug\DAL_Servicios.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\bin\Debug\Nini.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\obj\Debug\DAL_Servicios.csproj.CopyComplete
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\obj\Debug\DAL_Servicios.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\obj\Debug\DAL_Servicios.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\DAL_Servicios\obj\Debug\DAL_Servicios.csprojAssemblyReference.cache

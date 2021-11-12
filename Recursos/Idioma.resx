@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ABM_Autos" xml:space="preserve">
+    <value>ADM_Cars</value>
+  </data>
+  <data name="ABM_Choferes" xml:space="preserve">
+    <value>AMD_Drivers</value>
+  </data>
+  <data name="ABM_Clientes" xml:space="preserve">
+    <value>AMD_Clients</value>
+  </data>
+  <data name="ABM_Dueños" xml:space="preserve">
+    <value>ADM_Owners</value>
+  </data>
+  <data name="ABM_Pedido" xml:space="preserve">
+    <value>ADM_Orders</value>
+  </data>
+  <data name="ABM_Usuarios" xml:space="preserve">
+    <value>ADM_Users</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="Aceptar" xml:space="preserve">
+    <value>Accept</value>
+  </data>
+  <data name="ADM_Cars" xml:space="preserve">
+    <value>ABM_Autos</value>
+  </data>
+  <data name="ADM_Orders" xml:space="preserve">
+    <value>ABM_Pedido</value>
+  </data>
+  <data name="ADM_Owners" xml:space="preserve">
+    <value>ABM_Dueños</value>
+  </data>
+  <data name="ADM_Users" xml:space="preserve">
+    <value>ABM_Usuarios</value>
+  </data>
+  <data name="AMD_Clients" xml:space="preserve">
+    <value>ABM_Clientes</value>
+  </data>
+  <data name="AMD_Drivers" xml:space="preserve">
+    <value>ABM_Choferes</value>
+  </data>
+  <data name="Apertura_Planilla" xml:space="preserve">
+    <value>Open_Spreadsheets</value>
+  </data>
+  <data name="AUTOS" xml:space="preserve">
+    <value>CARS</value>
+  </data>
+  <data name="BACKUP_RESTORE" xml:space="preserve">
+    <value>BACKUP_RESTORE</value>
+  </data>
+  <data name="BD" xml:space="preserve">
+    <value>DB</value>
+  </data>
+  <data name="BINNACLE" xml:space="preserve">
+    <value>BITÁCORA</value>
+  </data>
+  <data name="BITÁCORA" xml:space="preserve">
+    <value>BINNACLE</value>
+  </data>
+  <data name="Buscar_Planilla" xml:space="preserve">
+    <value>Search_Spreadsheets</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Cancelar" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="CARS" xml:space="preserve">
+    <value>AUTOS</value>
+  </data>
+  <data name="CERRAR_SESIÓN" xml:space="preserve">
+    <value>SING_OFF</value>
+  </data>
+  <data name="CHOFERES" xml:space="preserve">
+    <value>DRIVER</value>
+  </data>
+  <data name="CLIENTES" xml:space="preserve">
+    <value>CLIENTS</value>
+  </data>
+  <data name="CLIENTS" xml:space="preserve">
+    <value>CLIENTES</value>
+  </data>
+  <data name="Conexión_BD" xml:space="preserve">
+    <value>Connection_DB</value>
+  </data>
+  <data name="CONFIGURACIÓN" xml:space="preserve">
+    <value>SETTING</value>
+  </data>
+  <data name="Connection_DB" xml:space="preserve">
+    <value>Conexión_BD</value>
+  </data>
+  <data name="Consult" xml:space="preserve">
+    <value>Consulta</value>
+  </data>
+  <data name="Consulta" xml:space="preserve">
+    <value>Consult</value>
+  </data>
+  <data name="Contraseña" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="DB" xml:space="preserve">
+    <value>BD</value>
+  </data>
+  <data name="Depuración" xml:space="preserve">
+    <value>Depuration</value>
+  </data>
+  <data name="Depuration" xml:space="preserve">
+    <value>Depuración</value>
+  </data>
+  <data name="DRIVERS" xml:space="preserve">
+    <value>CHOFERES</value>
+  </data>
+  <data name="DUEÑOS" xml:space="preserve">
+    <value>OWNERS</value>
+  </data>
+  <data name="Enter" xml:space="preserve">
+    <value>Ingresar</value>
+  </data>
+  <data name="ESTADÍSTICA" xml:space="preserve">
+    <value>STATISTICS</value>
+  </data>
+  <data name="Familia_Patentes" xml:space="preserve">
+    <value>Family_Patents</value>
+  </data>
+  <data name="Family_Patents" xml:space="preserve">
+    <value>Familia_Patentes</value>
+  </data>
+  <data name="Idiomas" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="Ingresar" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="Languages" xml:space="preserve">
+    <value>Idiomas</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Ubicación</value>
+  </data>
+  <data name="New_Backup" xml:space="preserve">
+    <value>Nuevo_Backup</value>
+  </data>
+  <data name="Nuevo_Backup" xml:space="preserve">
+    <value>New_Backup</value>
+  </data>
+  <data name="Open_Spreadsheets" xml:space="preserve">
+    <value>Apertura_Planilla</value>
+  </data>
+  <data name="ORDERS" xml:space="preserve">
+    <value>PEDIDOS</value>
+  </data>
+  <data name="OWNERS" xml:space="preserve">
+    <value>DUEÑOS</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="PEDIDOS" xml:space="preserve">
+    <value>ORDERS</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registrar</value>
+  </data>
+  <data name="Registrar" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="Restaurar_Backup" xml:space="preserve">
+    <value>Restore_Backup</value>
+  </data>
+  <data name="Restore_Backup" xml:space="preserve">
+    <value>Restaurar_Backup</value>
+  </data>
+  <data name="Search_Spreadsheets" xml:space="preserve">
+    <value>Buscar_Planilla</value>
+  </data>
+  <data name="Server" xml:space="preserve">
+    <value>Servidor</value>
+  </data>
+  <data name="Servidor" xml:space="preserve">
+    <value>Server</value>
+  </data>
+  <data name="SETTING" xml:space="preserve">
+    <value>CONFIGURACIÓN</value>
+  </data>
+  <data name="SING_OFF" xml:space="preserve">
+    <value>CERRAR_SESIÓN</value>
+  </data>
+  <data name="STATISTICS" xml:space="preserve">
+    <value>ESTADÍSTICA</value>
+  </data>
+  <data name="StringConexion" xml:space="preserve">
+    <value>StringConnection</value>
+  </data>
+  <data name="StringConnection" xml:space="preserve">
+    <value>StringConexion</value>
+  </data>
+  <data name="Ubicación" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Usuario</value>
+  </data>
+  <data name="Users_Patents" xml:space="preserve">
+    <value>Usuarios_Patentes</value>
+  </data>
+  <data name="Usuario" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="Usuarios_Patentes" xml:space="preserve">
+    <value>Users_Patents</value>
+  </data>
+  <data name="Alta_Usuario" xml:space="preserve">
+    <value>New_User</value>
+  </data>
+  <data name="Amount_Passengers" xml:space="preserve">
+    <value>Cantidad_Pasajeros</value>
+  </data>
+  <data name="Apellido" xml:space="preserve">
+    <value>Last_Name</value>
+  </data>
+  <data name="Calle" xml:space="preserve">
+    <value>Street</value>
+  </data>
+  <data name="Cantidad_Pasajeros" xml:space="preserve">
+    <value>Amount_Passengers</value>
+  </data>
+  <data name="Cellphone" xml:space="preserve">
+    <value>Celular</value>
+  </data>
+  <data name="Celular" xml:space="preserve">
+    <value>Cellphone</value>
+  </data>
+  <data name="Chofer" xml:space="preserve">
+    <value>Driver</value>
+  </data>
+  <data name="Client_Number" xml:space="preserve">
+    <value>Nro_Cliente</value>
+  </data>
+  <data name="Consultar" xml:space="preserve">
+    <value>Consult</value>
+  </data>
+  <data name="Dest_address" xml:space="preserve">
+    <value>Dest_Domicilio</value>
+  </data>
+  <data name="Dest_Domicilio" xml:space="preserve">
+    <value>Dest_address</value>
+  </data>
+  <data name="DNI" xml:space="preserve">
+    <value>PASSPORT</value>
+  </data>
+  <data name="Driver" xml:space="preserve">
+    <value>Chofer</value>
+  </data>
+  <data name="Fecha_Reserva" xml:space="preserve">
+    <value>Reservation_Date</value>
+  </data>
+  <data name="floor_apart_door" xml:space="preserve">
+    <value>Piso_Dep_Puerta</value>
+  </data>
+  <data name="Gestión_de_Remises" xml:space="preserve">
+    <value>Management_of_Cars</value>
+  </data>
+  <data name="Home_Origin" xml:space="preserve">
+    <value>Origen_Domicilio</value>
+  </data>
+  <data name="Last_Name" xml:space="preserve">
+    <value>Apellido</value>
+  </data>
+  <data name="Localidad" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="Locations" xml:space="preserve">
+    <value>Localidad</value>
+  </data>
+  <data name="Mail" xml:space="preserve">
+    <value>Mail</value>
+  </data>
+  <data name="Management_of_Cars" xml:space="preserve">
+    <value>Gestión_de_Remises</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="New_Order" xml:space="preserve">
+    <value>Nuevo_Pedido</value>
+  </data>
+  <data name="New_User" xml:space="preserve">
+    <value>Alta_Usuario</value>
+  </data>
+  <data name="Nombre" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="Nro_Cliente" xml:space="preserve">
+    <value>Client_Number</value>
+  </data>
+  <data name="Nuevo_Pedido" xml:space="preserve">
+    <value>New_Order</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>Numero</value>
+  </data>
+  <data name="Numero" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="Número" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="Origen_Domicilio" xml:space="preserve">
+    <value>Home_Origin</value>
+  </data>
+  <data name="PASSPORT" xml:space="preserve">
+    <value>DNI</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>Telefono</value>
+  </data>
+  <data name="Piso_Dep_Puerta" xml:space="preserve">
+    <value>floor_apart_door</value>
+  </data>
+  <data name="Province" xml:space="preserve">
+    <value>Provincia</value>
+  </data>
+  <data name="Provincia" xml:space="preserve">
+    <value>Province</value>
+  </data>
+  <data name="Reservation_Date" xml:space="preserve">
+    <value>Fecha_Reserva</value>
+  </data>
+  <data name="Street" xml:space="preserve">
+    <value>Calle</value>
+  </data>
+  <data name="Telefono" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="Actualizar" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Actualizar_Usuario" xml:space="preserve">
+    <value>Update_User</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Agregar</value>
+  </data>
+  <data name="Agregar" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="All_the_Patents" xml:space="preserve">
+    <value>Todas_las_Patentes</value>
+  </data>
+  <data name="Buscar" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="ConsultaFamiliasyPantentes" xml:space="preserve">
+    <value>ConsultFamiliesandPatents</value>
+  </data>
+  <data name="Consultation_Users_and_Patents" xml:space="preserve">
+    <value>Consulta_Usuarios_y_Patentes</value>
+  </data>
+  <data name="Consulta_Usuario" xml:space="preserve">
+    <value>User_Consult</value>
+  </data>
+  <data name="Consulta_Usuarios_y_Patentes" xml:space="preserve">
+    <value>Consultation_Users_and_Patents</value>
+  </data>
+  <data name="ConsultFamiliesandPatents" xml:space="preserve">
+    <value>ConsultaFamiliasyPantentes</value>
+  </data>
+  <data name="Crear_Familia" xml:space="preserve">
+    <value>Create_Family</value>
+  </data>
+  <data name="Create_Family" xml:space="preserve">
+    <value>Crear_Familia</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Eliminar</value>
+  </data>
+  <data name="Delete_Family" xml:space="preserve">
+    <value>Eliminar_Familia</value>
+  </data>
+  <data name="Eliminar" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Eliminar_Familia" xml:space="preserve">
+    <value>Delete_Family</value>
+  </data>
+  <data name="Every_Family" xml:space="preserve">
+    <value>Todas_las_Familias</value>
+  </data>
+  <data name="Familias" xml:space="preserve">
+    <value>Families</value>
+  </data>
+  <data name="Familias_del_Usuario" xml:space="preserve">
+    <value>User_Families</value>
+  </data>
+  <data name="Families" xml:space="preserve">
+    <value>Familias</value>
+  </data>
+  <data name="Family_name" xml:space="preserve">
+    <value>Nombre_Familia</value>
+  </data>
+  <data name="Id_User" xml:space="preserve">
+    <value>Id_Usuario</value>
+  </data>
+  <data name="Id_Usuario" xml:space="preserve">
+    <value>Id_User</value>
+  </data>
+  <data name="Nombre_Familia" xml:space="preserve">
+    <value>Family_name</value>
+  </data>
+  <data name="Nombre_Usuario" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="Patentes_del_Usuario" xml:space="preserve">
+    <value>User_Patents</value>
+  </data>
+  <data name="Patentes_de_Famlia" xml:space="preserve">
+    <value>Family_Patents</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="Todas_las_Familias" xml:space="preserve">
+    <value>Every_Family</value>
+  </data>
+  <data name="Todas_las_Patentes" xml:space="preserve">
+    <value>All_the_Patents</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Actualizar</value>
+  </data>
+  <data name="Update_User" xml:space="preserve">
+    <value>Actualizar_Usuario</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Nombre_Usuario</value>
+  </data>
+  <data name="User_Consult" xml:space="preserve">
+    <value>Consulta_Usuario</value>
+  </data>
+  <data name="User_Families" xml:space="preserve">
+    <value>Familias_del_Usuario</value>
+  </data>
+  <data name="User_Patents" xml:space="preserve">
+    <value>Patentes_del_Usuario</value>
+  </data>
+</root>

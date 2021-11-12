@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9BF11BC1-47E1-4489-8139-DB8BC416CD45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>UI.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar">
+      <HintPath>C:\Users\RJ Code Advance\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.forms">
+      <HintPath>..\packages\itext7.7.1.13\lib\net40\itext.forms.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.io">
+      <HintPath>..\packages\itext7.7.1.13\lib\net40\itext.io.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.kernel">
+      <HintPath>..\packages\itext7.7.1.13\lib\net40\itext.kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="itext.layout">
+      <HintPath>..\packages\itext7.7.1.13\lib\net40\itext.layout.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Basic 2005 Power Packs\3.0\Microsoft.VisualBasic.PowerPacks.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation">
+      <HintPath>..\..\..\..\..\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alta_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Usuario.designer.cs">
+      <DependentUpon>Alta_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entradas.Designer.cs">
+      <DependentUpon>Entradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log.designer.cs">
+      <DependentUpon>Log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apertura_Planilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apertura_Planilla.Designer.cs">
+      <DependentUpon>Apertura_Planilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cerrar_Planilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cerrar_Planilla.Designer.cs">
+      <DependentUpon>Cerrar_Planilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Usuario.Designer.cs">
+      <DependentUpon>Consulta_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Empleado.Designer.cs">
+      <DependentUpon>Alta_Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogUI.cs" />
+    <Compile Include="Modals\Confirmar_Contraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modals\Confirmar_Contraseña.Designer.cs">
+      <DependentUpon>Confirmar_Contraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Restaurar_Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurar_Backup.Designer.cs">
+      <DependentUpon>Restaurar_Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salidas.designer.cs">
+      <DependentUpon>Salidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pantalla_Principal_C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantalla_Principal_C.designer.cs">
+      <DependentUpon>Pantalla_Principal_C.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Empresa.designer.cs">
+      <DependentUpon>Alta_Empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Backup.designer.cs">
+      <DependentUpon>Alta_Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recuperar_Contraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recuperar_Contraseña.Designer.cs">
+      <DependentUpon>Recuperar_Contraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Zona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Zona.Designer.cs">
+      <DependentUpon>Alta_Zona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Empleado.Designer.cs">
+      <DependentUpon>Consulta_Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Visitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Visitante.Designer.cs">
+      <DependentUpon>Consulta_Visitante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Empresa.Designer.cs">
+      <DependentUpon>Consulta_Empresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar_Visitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar_Visitante.Designer.cs">
+      <DependentUpon>Actualizar_Visitante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Visitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Visitante.designer.cs">
+      <DependentUpon>Alta_Visitante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Familia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Familia.designer.cs">
+      <DependentUpon>Alta_Familia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Patente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alta_Patente.designer.cs">
+      <DependentUpon>Alta_Patente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar_Usuario.designer.cs">
+      <DependentUpon>Actualizar_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar_Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar_Empleado.Designer.cs">
+      <DependentUpon>Actualizar_Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar_Empresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".designer.cs">
+      <DependentUpon>Actualizar_Empresa.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar_Zona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar_Zona.Designer.cs">
+      <DependentUpon>Actualizar_Zona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar_Familia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar_Familia.designer.cs">
+      <DependentUpon>Actualizar_Familia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar_Patente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar_Patente.designer.cs">
+      <DependentUpon>Actualizar_Patente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Bitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Bitacora.Designer.cs">
+      <DependentUpon>Consulta_Bitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StringConexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StringConexion.designer.cs">
+      <DependentUpon>StringConexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Usuario_Patente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Usuario_Patente.Designer.cs">
+      <DependentUpon>Consulta_Usuario_Patente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Familia_Patente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Familia_Patente.designer.cs">
+      <DependentUpon>Consulta_Familia_Patente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Idioma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Idioma.designer.cs">
+      <DependentUpon>Idioma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Depurar_Bitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Depurar_Bitacora.designer.cs">
+      <DependentUpon>Depurar_Bitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro_Evento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro_Evento.Designer.cs">
+      <DependentUpon>Registro_Evento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\RecalcularDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\RecalcularDV.designer.cs">
+      <DependentUpon>RecalcularDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsuarioUI.cs" />
+    <EmbeddedResource Include="Alta_Usuario.resx">
+      <DependentUpon>Alta_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entradas.resx">
+      <DependentUpon>Entradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log.resx">
+      <DependentUpon>Log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apertura_Planilla.resx">
+      <DependentUpon>Apertura_Planilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cerrar_Planilla.resx">
+      <DependentUpon>Cerrar_Planilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Usuario.resx">
+      <DependentUpon>Consulta_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Empleado.resx">
+      <DependentUpon>Alta_Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modals\Confirmar_Contraseña.resx">
+      <DependentUpon>Confirmar_Contraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurar_Backup.resx">
+      <DependentUpon>Restaurar_Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salidas.resx">
+      <DependentUpon>Salidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Pantalla_Principal_C.resx">
+      <DependentUpon>Pantalla_Principal_C.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Empresa.resx">
+      <DependentUpon>Alta_Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Backup.resx">
+      <DependentUpon>Alta_Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recuperar_Contraseña.resx">
+      <DependentUpon>Recuperar_Contraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Zona.resx">
+      <DependentUpon>Alta_Zona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Empleado.resx">
+      <DependentUpon>Consulta_Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Visitante.resx">
+      <DependentUpon>Consulta_Visitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Empresa.resx">
+      <DependentUpon>Consulta_Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar_Visitante.resx">
+      <DependentUpon>Actualizar_Visitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Visitante.resx">
+      <DependentUpon>Alta_Visitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Familia.resx">
+      <DependentUpon>Alta_Familia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alta_Patente.resx">
+      <DependentUpon>Alta_Patente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar_Usuario.resx">
+      <DependentUpon>Actualizar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar_Empleado.resx">
+      <DependentUpon>Actualizar_Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar_Empresa.resx">
+      <DependentUpon>Actualizar_Empresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar_Zona.resx">
+      <DependentUpon>Actualizar_Zona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar_Familia.resx">
+      <DependentUpon>Actualizar_Familia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar_Patente.resx">
+      <DependentUpon>Actualizar_Patente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Bitacora.resx">
+      <DependentUpon>Consulta_Bitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StringConexion.resx">
+      <DependentUpon>StringConexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Usuario_Patente.resx">
+      <DependentUpon>Consulta_Usuario_Patente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Familia_Patente.resx">
+      <DependentUpon>Consulta_Familia_Patente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Idioma.resx">
+      <DependentUpon>Idioma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Depurar_Bitacora.resx">
+      <DependentUpon>Depurar_Bitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro_Evento.resx">
+      <DependentUpon>Registro_Evento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\RecalcularDV.resx">
+      <DependentUpon>RecalcularDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{5eba6841-0ebb-40ee-b0d1-773f194c459e}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{bd17bb1d-fddf-479b-a6fd-429a69dedd4b}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL_Datos\DAL_Datos.csproj">
+      <Project>{4E3306CB-04C1-4BE7-AF6E-56E2CEC5AC5B}</Project>
+      <Name>DAL_Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Recursos\Recursos.csproj">
+      <Project>{d107edaa-91f1-4e88-9bdb-61582888e762}</Project>
+      <Name>Recursos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Servicios\Servicios.csproj">
+      <Project>{c85bfd74-9b95-45c6-8e99-44dd2c74ee8a}</Project>
+      <Name>Servicios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Test Forms\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check_IN2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa segura.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empresa.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EMpleados.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visitas.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zona.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check_IN21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visitas1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seguridad.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Escudo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </bin\Debug>
+  <Target Name="AfterBuild">
+  </bin\Debug>
+  -->
+</Project>

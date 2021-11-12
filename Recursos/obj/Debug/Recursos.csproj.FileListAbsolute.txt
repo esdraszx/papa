@@ -1,0 +1,180 @@
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\bin\Debug\Recursos.dll
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\bin\Debug\Recursos.pdb
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\Recursos.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\Recursos.Idioma.resources
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\Recursos.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\Recursos.dll
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\Recursos.pdb
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\bin\Debug\en-US\Recursos.resources.dll
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\en-US\Recursos.resources.dll
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\bin\Debug\es-AR\Recursos.resources.dll
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\es-AR\Recursos.resources.dll
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\bin\Debug\Ionic.Zip.dll
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\Recursos.Hola.Idioma.es-AR.resources
+C:\Users\Dell\Desktop\Trabajo Final\Remiseria\Recursos\obj\Debug\Recursos.Hola.Idioma.en-US.resources
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Recursos.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Recursos.pdb
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\es-AR\Recursos.resources.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\en-US\Recursos.resources.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Ionic.Zip.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\Recursos.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\Recursos.Idioma.resources
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\Recursos.Hola.Idioma.es-AR.resources
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\Recursos.Hola.Idioma.en-US.resources
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\Recursos.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\es-AR\Recursos.resources.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\en-US\Recursos.resources.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\Recursos.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\obj\Debug\Recursos.pdb
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Common.Logging.Core.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Common.Logging.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.barcodes.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.forms.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.io.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.kernel.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.layout.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.pdfa.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.sign.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.svg.dll
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Common.Logging.pdb
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Common.Logging.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\Common.Logging.Core.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.barcodes.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.forms.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.io.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.kernel.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.layout.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.pdfa.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.sign.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Dell\Desktop\TrabajoFinal\Remiseria\Recursos\bin\Debug\itext.svg.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Recursos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Recursos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\es-AR\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\en-US\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\BouncyCastle.Crypto.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Common.Logging.Core.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Common.Logging.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Ionic.Zip.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.barcodes.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.forms.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.io.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.kernel.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.layout.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.pdfa.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.sign.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.styledxmlparser.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.svg.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\BouncyCastle.Crypto.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Common.Logging.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Common.Logging.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Common.Logging.Core.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\Common.Logging.Core.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.barcodes.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.forms.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.io.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.kernel.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.layout.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.pdfa.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.sign.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.styledxmlparser.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\bin\Debug\itext.svg.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.csprojAssemblyReference.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.Idioma.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.Hola.Idioma.es-AR.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.Hola.Idioma.en-US.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.csproj.GenerateResource.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.csproj.CoreCompileInputs.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\es-AR\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\en-US\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.csproj.CopyComplete
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check IN4\Recursos\obj\Debug\Recursos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Recursos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Recursos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\es-AR\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\en-US\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\BouncyCastle.Crypto.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Common.Logging.Core.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Common.Logging.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Ionic.Zip.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.barcodes.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.forms.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.io.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.kernel.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.layout.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.pdfa.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.sign.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.styledxmlparser.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.svg.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\BouncyCastle.Crypto.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Common.Logging.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Common.Logging.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Common.Logging.Core.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\Common.Logging.Core.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.barcodes.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.forms.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.io.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.kernel.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.layout.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.pdfa.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.sign.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.styledxmlparser.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\bin\Debug\itext.svg.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.csprojAssemblyReference.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.Idioma.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.Hola.Idioma.es-AR.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.Hola.Idioma.en-US.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.csproj.GenerateResource.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.csproj.CoreCompileInputs.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\es-AR\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\en-US\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.csproj.CopyComplete
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Check_In5\Recursos\obj\Debug\Recursos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Recursos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Recursos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\es-AR\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\en-US\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\BouncyCastle.Crypto.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Common.Logging.Core.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Common.Logging.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Ionic.Zip.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.barcodes.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.forms.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.io.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.kernel.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.layout.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.pdfa.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.sign.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.styledxmlparser.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.svg.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\BouncyCastle.Crypto.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Common.Logging.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Common.Logging.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Common.Logging.Core.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\Common.Logging.Core.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.barcodes.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.forms.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.io.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.kernel.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.layout.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.pdfa.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.sign.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.styledxmlparser.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\bin\Debug\itext.svg.xml
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.Idioma.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.Hola.Idioma.es-AR.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.Hola.Idioma.en-US.resources
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.csproj.GenerateResource.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.csproj.CoreCompileInputs.cache
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\es-AR\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\en-US\Recursos.resources.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.csproj.CopyComplete
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.dll
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_In5\Recursos\obj\Debug\Recursos.pdb
+E:\Material Universidad\TFI 2021\Catala Nelson\Version entrega C\Check_IN5\Recursos\obj\Debug\Recursos.csprojAssemblyReference.cache
